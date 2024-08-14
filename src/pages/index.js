@@ -43,12 +43,7 @@ export default function Home() {
         </div>
 
         <div className={styles.grid}>
-          <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+        
             <h2>
               Docs <span>-&gt;</span>
             </h2>
