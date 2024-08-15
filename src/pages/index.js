@@ -1,5 +1,5 @@
 import { Salmon, Fish } from "@/component/recipes";
-import { SalmonInstruction, Fishinstruction } from "@/component/Instructions";
+// import { SalmonInstruction, Fishinstruction } from "@/component/Instructions";
 
 export default function Home() {
   return (
